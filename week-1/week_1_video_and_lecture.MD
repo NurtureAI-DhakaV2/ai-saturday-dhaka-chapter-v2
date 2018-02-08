@@ -1,12 +1,12 @@
 **Lecture Links:**
-#### Fast.ai
+### Fast.ai
 [Fast ai lesion 1](http://course.fast.ai/lessons/lesson1.html)
 
-#### CS231n: Convolutional Neural Networks for Visual Recognition
+### CS231n: Convolutional Neural Networks for Visual Recognition
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
 - [CS231n: Lession 1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
-#### Coursera Deep Learning
+### Coursera Deep Learning
 [Neural Network and Deep Learning - Week 1](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
 **Forum Links:**
