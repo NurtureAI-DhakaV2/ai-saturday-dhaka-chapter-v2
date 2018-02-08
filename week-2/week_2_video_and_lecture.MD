@@ -3,11 +3,11 @@
 [Fast ai lesion 2](http://course.fast.ai/lessons/lesson2.html)
 
 ####CS231n: Convolutional Neural Networks for Visual Recognition
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
-[CS231n: Lession 2](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+[CS231n: Convolution Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
+[CS231n: Lesson 2](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ####Coursera Deep Learning
-[Nural Network and Deep Learning - Week 2 - Video (5-21) ](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
+[Neural Network and Deep Learning - Week 2 - Video (5-21) ](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
 **Forum Links:**
 [Week 2 Lesson Wiki](http://wiki.fast.ai/index.php/Lesson_2)
