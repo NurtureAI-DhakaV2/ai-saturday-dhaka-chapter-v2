@@ -19,7 +19,7 @@ _We will use Anaconda for python installation. Please check following tutorial f
 - [Git for beginners](https://www.sitepoint.com/git-for-beginners/)
 - [Git tutorial](https://www.learnenough.com/git-tutorial)
 
-## Linear Algebra:
+### Linear Algebra:
 - [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [3Blue1Brown Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
