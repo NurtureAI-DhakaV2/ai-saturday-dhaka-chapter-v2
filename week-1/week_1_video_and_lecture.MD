@@ -1,24 +1,24 @@
 **Lecture Links:**
-####Fast.ai
+#### Fast.ai
 [Fast ai lesion 1](http://course.fast.ai/lessons/lesson1.html)
 
-####CS231n: Convolutional Neural Networks for Visual Recognition
-[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
-[CS231n: Lession 1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+#### CS231n: Convolutional Neural Networks for Visual Recognition
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
+- [CS231n: Lession 1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
-####Coursera Deep Learning
-[Nural Network and Deep Learning - Week 1](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
+#### Coursera Deep Learning
+[Neural Network and Deep Learning - Week 1](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
 **Forum Links:**
-[Week 1 Lesson Wiki](http://wiki.fast.ai/index.php/Lesson_1)
-[Forum Discussion Week 1](http://forums.fast.ai/t/lesson-1-discussion/96)
+- [Week 1 Lesson Wiki](http://wiki.fast.ai/index.php/Lesson_1)
+- [Forum Discussion Week 1](http://forums.fast.ai/t/lesson-1-discussion/96)
 
 **Cloud Machine Setup:**
-[Google Colab Setup for fast.ai](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)
-[Jupyter Notebook on Paperspace](https://by-the-water.github.io/posts/2017/05/16/setting-up-a-jupyter-notebook-server-on-paperspace.html)
-[Google Cloud Set up](https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6)
-[Paper Space SetUp](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
-[AWS Setup](https://github.com/fastai/courses/blob/master/setup/aws-alias.sh)
+- [Google Colab Setup for fast.ai](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)
+- [Jupyter Notebook on Paperspace](https://by-the-water.github.io/posts/2017/05/16/setting-up-a-jupyter-notebook-server-on-paperspace.html)
+- [Google Cloud Set up](https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6)
+- [Paper Space SetUp](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md)
+- [AWS Setup](https://github.com/fastai/courses/blob/master/setup/aws-alias.sh)
 
 **To Get Free Paper Space Credit Follow Below Steps:**
 - Go to [https://www.paperspace.com/&R=FASTAI1550](https://www.paperspace.com/&R=FASTAI1550)
@@ -32,22 +32,22 @@ add this as promo code UMR4I5U you would get 10$
 [Python Data Science Handbook - All notebook files](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 **Other Resources:**
-[Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Stochastic_Gradient_Descent_(SGD)](http://wiki.fast.ai/index.php/Stochastic_Gradient_Descent_(SGD))
-[Activation functions and it’s types-Which is better](https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
-[Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Stochastic_Gradient_Descent_(SGD)](http://wiki.fast.ai/index.php/Stochastic_Gradient_Descent_(SGD))
+- [Activation functions and it’s types-Which is better](https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
+- [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
 **Machine Learning Courses:**
-[Machine Learning Course from stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLFC36A799B7FFD0CF)
-[Fast.ai early access to machine learning course](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285)
+- [Machine Learning Course from stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLFC36A799B7FFD0CF)
+- [Fast.ai early access to machine learning course](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285)
 
 **Statistics Courses:**
-[Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101)
-[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-[Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+- [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+- [Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 **Reference Book:**
-https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf
+[MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
 
 **Questions Discussed during session:**
 - What is gradient decent ? Why this is important in Machine Learning & Deep Learning ?
