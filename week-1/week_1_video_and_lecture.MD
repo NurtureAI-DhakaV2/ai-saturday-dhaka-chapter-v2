@@ -49,7 +49,10 @@
 ### Reference Book:
 - [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
 
-### Questions Discussed during session:
+### Related Articles:
+- [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+
+### Questions Discussed During Session:
 - What is gradient decent ? Why this is important in Machine Learning & Deep Learning ?
 - What is lose function ?
 - What is universal approximation theorem ?

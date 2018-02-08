@@ -51,7 +51,7 @@
 ### Reference Book:
 [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
 
-### Questions Discussed during session:
+### Questions Discussed During Session:
 - Difference between nearest neighbour and k nearest neighbour
 - What is distance matrix in k nearest neighbour ?
 - When to use L1(Manhattan) distance and when to use L2(Euclidean) distance ?
