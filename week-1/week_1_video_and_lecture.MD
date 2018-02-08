@@ -29,7 +29,8 @@ add this as promo code UMR4I5U you would get 10$
 
 
 **Numpy, Scipy & Notebook Tutorials:**
-[Python Data Science Handbook - All notebook files](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python Data Science Handbook - All notebook files](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [IPython Tutorial](http://cs231n.github.io/ipython-tutorial/)
 
 **Other Resources:**
 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
