@@ -1,5 +1,15 @@
 **Lecture Links:**
+####Fast.ai
 [Fast ai lesion 1](http://course.fast.ai/lessons/lesson1.html)
+
+####CS231n: Convolutional Neural Networks for Visual Recognition
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/transfer-learning/)
+[CS231n: Lession 1](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
+####Coursera Deep Learning
+[Nural Network and Deep Learning - Week 1](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
+
+**Forum Links:**
 [Week 1 Lesson Wiki](http://wiki.fast.ai/index.php/Lesson_1)
 [Forum Discussion Week 1](http://forums.fast.ai/t/lesson-1-discussion/96)
 
@@ -27,10 +37,24 @@ add this as promo code UMR4I5U you would get 10$
 [Activation functions and it’s types-Which is better](https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f)
 [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I)
 
-**Questions:**
+**Machine Learning Courses:**
+[Machine Learning Course from stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLFC36A799B7FFD0CF)
+[Fast.ai early access to machine learning course](http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826?source_topic_id=9285)
+
+**Statistics Courses:**
+[Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101)
+[Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+[Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)
+
+**Reference Book:**
+https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf
+
+**Questions Discussed during session:**
 - What is gradient decent ? Why this is important in Machine Learning & Deep Learning ?
 - What is lose function ?
 - What is universal approximation theorem ?
 - What is epoch ?
 - What is activation function ? When we use it ? 
 - When to use Relu and when to use Sigmoid ?
+- Image segmentation
+- What is over fitting ?

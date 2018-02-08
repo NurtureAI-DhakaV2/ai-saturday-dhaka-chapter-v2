@@ -2,8 +2,8 @@
 
 _This repository will contains all course materials of AI Saturday Dhaka (2nd Venue)_ 
 
-**Pre Session (20th January, 2018)**
-- [Pre Session Video and Tutorial Links](https://github.com/salayhin/ai-saturday-dhaka-v2/blob/master/pre-session/pre-session-video-and-tutorial-links.MD)
-- [Week One Video and Tutorial Links](https://github.com/salayhin/ai-saturday-dhaka-v2/blob/master/week-1/.MD)week_1_video_and_lecture
+**Video and Tutorial Links**
+- [Pre Session (20th January, 2018) Video and Tutorial Links](https://github.com/salayhin/ai-saturday-dhaka-v2/blob/master/pre-session/pre-session-video-and-tutorial-links.MD)
+- [Week One (27th January, 2018) Video and Tutorial Links](https://github.com/salayhin/ai-saturday-dhaka-v2/blob/master/week-1/week_1_video_and_lecture.MD)
+- [Week Two Video and Tutorial Links](https://github.com/salayhin/ai-saturday-dhaka-v2/blob/master/week-2/week_2_video_and_lecture.MD)
 
-https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf
