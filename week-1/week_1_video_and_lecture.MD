@@ -9,6 +9,12 @@
 **Coursera Deep Learning**
 - [Neural Network and Deep Learning - Week 1](https://www.youtube.com/watch?v=7PiK4wtfvbA&list=PLBAGcD3siRDguyYYzhVwZ3tLvOyyG5k6K)
 
+### Notebook Files:
+- [Lesson 1 PDF](https://nurtureai-dhakav2.github.io/ai-saturday-dhaka-chapter-v2/week-1/notebook/lesson1.pdf)
+- [Lesson 1 Notebook File](https://nurtureai-dhakav2.github.io/ai-saturday-dhaka-chapter-v2/week-1/notebook/lesson1.ipynb)
+- [Lesson 1 rxt50 Notebook File](https://nurtureai-dhakav2.github.io/ai-saturday-dhaka-chapter-v2/week-1/notebook/lesson1-rxt50.ipynb)
+- [Lesson 1 vgg Notebook File](https://nurtureai-dhakav2.github.io/ai-saturday-dhaka-chapter-v2/week-1/notebook/lesson1-vgg.ipynb)
+
 ### Forum Links:
 - [Week 1 Lesson Wiki](http://wiki.fast.ai/index.php/Lesson_1)
 - [Forum Discussion Week 1](http://forums.fast.ai/t/lesson-1-discussion/96)
