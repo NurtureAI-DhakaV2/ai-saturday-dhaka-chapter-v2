@@ -51,6 +51,14 @@
 - [Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101)
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [Intro to Inferential Statistics](https://in.udacity.com/course/intro-to-inferential-statistics--ud201)
+- [MIT Probability and Statistics Open Course Ware](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+### Linear Algebra
+- [MIT Linear Algebra Open Course Ware](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
+
+### Calculus
+- [MIT Single Variable Calculus Open Course Ware](https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1)
+- [MIT Multi Variable Calculus Open Course Ware](https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38)
 
 ### Reference Book:
 - [MIT Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/complete-book-pdf)
